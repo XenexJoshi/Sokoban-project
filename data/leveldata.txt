@@ -1,0 +1,5 @@
+map0.csv,Falling into Infinity,2,2
+map1.csv,Train of Thought,8,10
+map2.csv,Images and Words,16,12
+map3.csv,Chaos in Motion,25,20
+map4.csv,Hollow Years,30,25
