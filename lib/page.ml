@@ -48,14 +48,7 @@ module Page = struct
         Constants.sub_header_size Raylib.Color.red
     in
     let () =
-      let credit_list =
-        [
-          "Xenex Joshi - xj233";
-          "Amogh Mahadevan - am2744";
-          "Sunny Kim - sk2799";
-          "Atkins Dube - akd74";
-        ]
-      in
+      let credit_list = [ "Xenex Joshi - xj233" ] in
       for i = 0 to List.length credit_list - 1 do
         let text = List.nth credit_list i in
         draw_text text
